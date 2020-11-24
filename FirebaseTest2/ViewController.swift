@@ -11,6 +11,7 @@ import Firebase
 class ViewController: UIViewController {
     
     
+    
     @IBOutlet weak var dataView: UITextView!
     
     var db:Firestore!
